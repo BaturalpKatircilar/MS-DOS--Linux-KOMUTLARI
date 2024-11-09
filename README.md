@@ -6,19 +6,33 @@ __<span style="color:blue">Tanım:__ DIR komutu içinde bulunulan mevcut komutun
 
 __<span style="color:blue">Örnek:__ 
 
-_<span style="color:red ">DIR KOMUTU_
 ![Ekran görüntüsü 2024-11-09 151944](https://github.com/user-attachments/assets/4edf12b3-1631-42d3-8b6e-8842946ae05f)  
-__<span style="color:blue">2.DIR/W Komutu__  
+__<span style="color:blue">2.DIR/P Komutu__  
+__<span style="color:blue">Tanım:__  DIR komutu içinde bulunulan mevcut komutun bulundurduğu tüm dizin ve dosyaları __<mark  > liste şeklinde__ gösterir.  
+  
 
-__<span style="color:blue">Tanım:__  DIR komutu içinde bulunulan mevcut komutun bulundurduğu tüm dizin ve dosyaları __<span style="color:red "> liste şeklinde__ gösterir. 
+__<span style="color:blue">Örnek:__ 
 
-__<span style="color:blue">3.CD KOMUTU__  
+![DIR-P](https://github.com/user-attachments/assets/59c61106-5f20-484c-81e2-95c3e09ac0ae)
+
+__<span style="color:blue">3.DIR/W KOMUTU__  
+
+__<span style="color:blue">Tanım:__   Mecut konumun altında bulunan tüm dosya ve dizinleri __<mark  >yan yana listeler şeklinde__ gösterir.  
+
+__<span style="color:blue">Örnek:__
+
+![DIR W](https://github.com/user-attachments/assets/e63fb2a8-2986-4e9e-81d6-b617b3b1af58)
+
+__<span style="color:blue">4.DIR/A KOMUTU__  
+
+__<span style="color:blue">Tanım:__  Mecut konumun altında bulunan tüm <mark>__Gizli__</mark> dosya ve dizinleri __<mark> liste şeklinde__ gösterir.
+
+__<span style="color:blue">Örnek:__ 
+![DIR-A](https://github.com/user-attachments/assets/0771f4fc-2db3-489f-b2fc-2cbcf8d46623)
 
 
-__<span style="color:blue">Tanım:__ Mevcut komut dizinini değiştirir.  
- __<span style="color:blue">Örnek__ ![MS-DOS (CD)](https://github.com/user-attachments/assets/38261557-79cb-4d60-98e3-87c1a3336fa9)
 
-__<span style="color:blue">4.RN KOMUTU__  
-__<span style="color:blue">Tanım:__ 
+
+
 
 
