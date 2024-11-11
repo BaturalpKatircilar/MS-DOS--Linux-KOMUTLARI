@@ -112,5 +112,27 @@ __<span style="color:#b81616">Sonra__
 
 __<span style="color:#b81616 ">12.MD KOMUTU__  
 
+__<span style="color:#b81616">Tanım:__ Dizin oluşturmayı sağlar.  
+
+
+
+__<span style="color:#b81616">Örnek:__   
+
+![Ekran görüntüsü 2024-11-11 100320](https://github.com/user-attachments/assets/af1067a5-6081-4374-aa04-5b1c95c95131)
+
+___<span style="color:#b81616">KOMUT___  
+  
+![Ekran görüntüsü 2024-11-11 102135](https://github.com/user-attachments/assets/9108e7c4-ff98-47ce-94d5-cb7b3b3775a9)
+
+
+
+__<span style="color:#b81616">Sonra__  
+
+![Ekran görüntüsü 2024-11-11 100634](https://github.com/user-attachments/assets/5b116149-9dfd-4fd7-8f6e-f138d709cd04)
+
+
+
+
+
 
 
