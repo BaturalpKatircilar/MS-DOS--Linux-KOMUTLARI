@@ -7,14 +7,14 @@ __<span style="color:blue">Tanım:__ İçinde bulunulan mevcut komutun bulundurd
 __<span style="color:blue">Görsel Örnek:__ 
 
 ![Ekran görüntüsü 2024-11-09 151944](https://github.com/user-attachments/assets/4edf12b3-1631-42d3-8b6e-8842946ae05f)  
-__<span style="color:blue">2.DIR/P Komutu__  
+__<span style="color:blue">2.DIR/<mark>P</mark> Komutu__  
 __<span style="color:blue">Tanım:__  DIR komutu içinde bulunulan mevcut komutun bulundurduğu tüm dizin ve dosyaları __<mark  > liste şeklinde__ gösterir.  
   
 __<span style="color:blue">Görsel Örnek:__ 
 
 ![DIR-P](https://github.com/user-attachments/assets/59c61106-5f20-484c-81e2-95c3e09ac0ae)
 
-__<span style="color:blue">3.DIR/W KOMUTU__  
+__<span style="color:blue">3.DIR<mark>/W</mark> KOMUTU__  
 
 __<span style="color:blue">Tanım:__   Mecut konumun altında bulunan tüm dosya ve dizinleri __<mark  >yan yana listeler şeklinde__ gösterir.  
 
@@ -22,7 +22,7 @@ __<span style="color:blue">Görsel Örnek:__
 
 ![DIR W](https://github.com/user-attachments/assets/e63fb2a8-2986-4e9e-81d6-b617b3b1af58)
 
-__<span style="color:blue">4.DIR/A KOMUTU__  
+__<span style="color:blue">4.DIR/<mark>A</mark> KOMUTU__  
 
 __<span style="color:blue">Tanım:__  Mecut konumun altında bulunan tüm <mark>__Gizli__</mark> dosya ve dizinleri __<mark> liste şeklinde__ gösterir.
 
@@ -30,7 +30,7 @@ __<span style="color:blue">Görsel Örnek:__
 ![DIR-A](https://github.com/user-attachments/assets/0771f4fc-2db3-489f-b2fc-2cbcf8d46623)
 
 
-__<span style="color:blue">5.DIR/AS KOMUTU__  
+__<span style="color:blue">5.DIR/<mark>AS</mark> KOMUTU__  
 
 __<span style="color:blue">Tanım:__  Mecut konumun altında bulunan <mark>__sistem dosyalarını__</mark> gösterir.
 
@@ -39,7 +39,7 @@ __<span style="color:blue">Görsel Örnek:__
 ![Ekran görüntüsü 2024-11-11 211132](https://github.com/user-attachments/assets/3080bc22-050d-42f2-92a8-734734a85b45)
 
 
-__<span style="color:blue">6.DIR/ON KOMUTU__  
+__<span style="color:blue">6.DIR/<mark>ON</mark> KOMUTU__  
 
 __<span style="color:blue">Tanım:__  Mecut konumun altında bulunan dosya ve dizinleri <mark>__harf sırasına göre__</mark> sıraı şekilde gösterir.
 
@@ -48,7 +48,7 @@ __<span style="color:blue">Görsel Örnek:__
 ![Ekran görüntüsü 2024-11-11 211655](https://github.com/user-attachments/assets/e712526f-f9ea-4f75-8964-aef0f82846bc)
 
 
-__<span style="color:blue">7.DIR/OS KOMUTU__ 
+__<span style="color:blue">7.DIR/<mark>OS</mark> KOMUTU__ 
 
 
 __<span style="color:blue">Tanım:__ Mecut konumun altında bulunan dosya ve dizinleri <mark>__boyutuna göre küçükten büyüğe__</mark>  sıralar.
@@ -225,7 +225,7 @@ __<span style="color:#b81616">Görsel Örnek__
 
 ![Ekran görüntüsü 2024-11-12 204421](https://github.com/user-attachments/assets/1e83a7cc-f407-44eb-9ea4-d8add7d6b991)
 
-__<span style="color:#b81616 ">22.SHUTDOWN/R KOMUTU__  
+__<span style="color:#b81616 ">22.SHUTDOWN/<mark>R</mark> KOMUTU__  
 
 __<span style="color:#b81616">Tanım:__ Bilgisayarı yeniden başlatır.
 
