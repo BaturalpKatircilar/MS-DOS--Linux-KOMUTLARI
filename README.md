@@ -2,7 +2,7 @@
 
 __<span style="color:blue">1.DIR KOMUTU__  
 
-__<span style="color:blue">Tanım:__ DIR komutu içinde bulunulan mevcut komutun bulundurduğu tüm dizin ve dosyaları gösterir.  
+__<span style="color:blue">Tanım:__ İçinde bulunulan mevcut komutun bulundurduğu <mark>__tüm dizin ve dosyaları__</mark> gösterir.  
 
 __<span style="color:blue">Görsel Örnek:__ 
 
@@ -48,10 +48,10 @@ __<span style="color:blue">Görsel Örnek:__
 ![Ekran görüntüsü 2024-11-11 211655](https://github.com/user-attachments/assets/e712526f-f9ea-4f75-8964-aef0f82846bc)
 
 
-__<span style="color:blue">7.DIR/OS KOMUTU__ Mecut konumun altında bulunan dosya ve dizinleri <mark>__boyutuna göre__</mark> __küçükten büyüğe__  sıralar.
+__<span style="color:blue">7.DIR/OS KOMUTU__ 
 
 
-__<span style="color:blue">Tanım:__
+__<span style="color:blue">Tanım:__ Mecut konumun altında bulunan dosya ve dizinleri <mark>__boyutuna göre küçükten büyüğe__</mark>  sıralar.
 
 __<span style="color:blue">Görsel Örnek:__  
 
@@ -198,7 +198,7 @@ __<span style="color:#b81616">Görsel Örnek:__
 
 __<span style="color:#b81616 ">19.HELP KOMUTU__  
 
-__<span style="color:#b81616">Tanımı:__ Belirtilen MS-DOS komutu hakkında kısa açıklamalar görüntüler. Bu açıklamalar geniş bir komut anlatımından çok kısa bir özet niteliğindedir. Genel yazılımı;
+__<span style="color:#b81616">Tanım:__ Belirtilen MS-DOS komutu hakkında kısa açıklamalar görüntüler. Bu açıklamalar geniş bir komut anlatımından çok kısa bir özet niteliğindedir. Genel yazılımı;
 HELP [komut]
 
 __<span style="color:#b81616">Komut Yazılımı:__ C:\Users\Baturalp>HELP CD  
