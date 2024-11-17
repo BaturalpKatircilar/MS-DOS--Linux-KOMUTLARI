@@ -1,4 +1,4 @@
-# Linux Komutları  
+# Linux Konsol Komutları  
 
 __<span style="color:blue">1. pwd Komutu__   
 
