@@ -2,7 +2,7 @@
 
 __<span style="color:blue">1. pwd Komutu__   
 
-__<span style="color:blue">Tanım:__ Blulunulan mevcut konumun tam yolunu ekrana yazdırır.
+__<span style="color:blue">Tanım:__  Bulunulan mevcut konumun tam yolunu ekrana yazdırır.
 
 __<span style="color:blue"> Örnek Görsel:__  
 ![PWD](https://github.com/user-attachments/assets/2d8959dc-daa0-4e14-856e-bd515659f203)  
@@ -18,7 +18,7 @@ __<span style="color:blue">2. ls Komutu__
 
  __<span style="color:blue">3. ls -l Komutu__
 
-  __<span style="color:blue">Tanım:__ Bulunulan _dizin içindeki dosya ve dizinleri __<mark>detaylı bir şekilde </mark>  listeler__. 
+  __<span style="color:blue">Tanım:__ Bulunulan dizin içindeki dosya ve dizinleri __<mark>detaylı bir şekilde </mark>  listeler__. 
 
  __<span style="color:blue"> Örnek Görsel:__  
 
@@ -43,19 +43,19 @@ __<span style="color:blue"> Örnek Görsel:__
 ![ls -ltr](https://github.com/user-attachments/assets/4dc9cd77-5009-4bdb-97c0-902d39b38505)
 
 
-__<span style="color:blue">5. ls -a Komutu__  
+__<span style="color:blue">6. ls -a Komutu__  
 
  __<span style="color:blue">Tanım:__ Bulunulan  dizin içindeki <mark> __gizli dosya ve dizinleri listeler__</mark>.  
 
 
-__<span style="color:blue">6. cd Komutu__
+__<span style="color:blue">7. cd Komutu__
 
 __<span style="color:blue">Tanım:__ <mark>__Dizin değiştirmeyi__</mark> sağlar.
 
 
 ![Ekran görüntüsü_2024-11-16_14-37-10](https://github.com/user-attachments/assets/e3b00099-f03e-43b0-bd6a-63fa8ce2cce5)
 
-__<span style="color:blue">7. mkdir Komutu__  
+__<span style="color:blue">8. mkdir Komutu__  
 
 __<span style="color:blue">Tanım:__ Yeni bir <mark>__dizin oluşturmak__
 </mark> için kullanmılır.
@@ -65,7 +65,7 @@ __<span style="color:blue">Tanım:__ Yeni bir <mark>__dizin oluşturmak__
 ![mkdir](https://github.com/user-attachments/assets/ce3aaaa8-06dd-47a4-8bf4-3c3e8f53b0d1) 
 
 
-__<span style="color:blue">8. touch Komutu__ 
+__<span style="color:blue">9. touch Komutu__ 
 
 __<span style="color:blue">Tanım:__ Yeni bir <mark>__dosya oluşturmak__</mark> için.kullanılır.
 
@@ -73,7 +73,7 @@ __<span style="color:blue">Tanım:__ Yeni bir <mark>__dosya oluşturmak__</mark>
 
 ![Ekran görüntüsü_2024-11-16_14-23-23](https://github.com/user-attachments/assets/416d6658-1908-4ee3-90c1-46a1ead5d59c)
 
-__<span style="color:blue">9. nano Komutu__ 
+__<span style="color:blue">10. nano Komutu__ 
 
 __<span style="color:blue">Tanım:__ Linux komut satırı üzerinde  yüklü olan metin düzenleyicilerdir. komut sonrasında kullandığımız dosyaya metin yazmamızı sağlar 
 
@@ -91,7 +91,7 @@ __<span style="color:blue">Kullanımı:__
 ![Ekran görüntüsü_2024-11-16_15-31-41](https://github.com/user-attachments/assets/f73bdd42-0978-4153-8c48-59641476a48b)
 
 
-__<span style="color:blue">10. cat Komutu__  
+__<span style="color:blue">11. cat Komutu__  
 
 __<span style="color:blue">Tanım:__ <mark>__Bir metin dosyasının içeriğini ekrana yansıtmak__</mark> için kulllanılır. 
 
@@ -99,7 +99,7 @@ __<span style="color:blue">Tanım:__ <mark>__Bir metin dosyasının içeriğini 
 
  ![catc](https://github.com/user-attachments/assets/d158e4c7-075e-4f1f-a4f5-aaf9337152a6)
 
-__<span style="color:blue">11. cat -n Komutu__  
+__<span style="color:blue">12. cat -n Komutu__  
 
 __<span style="color:blue">Tanım:__  __Bir metin dosyasının içeriğini <mark>sıra numarası ile </mark>ekrana yansıtmak__ için kulllanılır. 
 
@@ -109,7 +109,7 @@ __<span style="color:blue">Tanım:__  __Bir metin dosyasının içeriğini <mark
   
 
 
-__<span style="color:blue">12. cp Komutu__  
+__<span style="color:blue">13. cp Komutu__  
 
 __<span style="color:blue">Tanım:__ <mark>__Dosyaları kopyalamak__</mark> için kullanılır 
 
@@ -163,17 +163,17 @@ __<span style="color:blue"> Örnek Görsel:__
 
 ![uname -a](https://github.com/user-attachments/assets/244445d3-42ff-4b75-b55d-b52cabe0b096)
 
-__<span style="color:blue">17. df  Komutu__
+__<span style="color:blue">18. df  Komutu__
 
 __<span style="color:blue">Tanım:__ Harddisk  __ile ilgili özellikleri <mark>detaylı şekilde__</mark> gösterir.  
 
 __<span style="color:blue"> Örnek Görsel:__  
 
-__<span style="color:blue">18. df -kh  Komutu__  
+__<span style="color:blue">19. df -kh  Komutu__  
 
 __<span style="color:blue">Tanım:__ Harddisk  __ile ilgili özelliklerini <mark>daha anlaşılır biçimde</mark> detaylı şekilde__ gösterir.  
 
-__<span style="color:blue">19. lscpu Komutu__  
+__<span style="color:blue">20. lscpu Komutu__  
 
 __<span style="color:blue">Tanım:__ <mark>İşlemci</mark> __ile ilgili özellikleri <mark>detaylı şekilde__</mark> gösterir.  
 
@@ -181,7 +181,7 @@ __<span style="color:blue"> Örnek Görsel:__
 
 ![lscpu](https://github.com/user-attachments/assets/6f3cc547-26e2-4367-9320-7aba341d2354)
 
-__<span style="color:blue">20. whoami Komutu__ 
+__<span style="color:blue">21. whoami Komutu__ 
 
 __<span style="color:blue">Tanım:__  Mevcut <mark>__kullanıcıyı__</mark> gösterir.  
 
