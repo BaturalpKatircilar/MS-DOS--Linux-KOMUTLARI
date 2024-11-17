@@ -168,14 +168,21 @@ __<span style="color:blue">19. df  Komutu__
 __<span style="color:blue">Tanım:__ Harddisk  __ile ilgili özellikleri <mark>detaylı şekilde__</mark> gösterir.  
 
 __<span style="color:blue"> Örnek Görsel:__  
+![df](https://github.com/user-attachments/assets/3cd4be82-efa1-400e-b838-299c7cce4910)  
 
-__<span style="color:blue"20. df -kh  Komutu__  
+__<span style="color:blue">20. df  Komutu__  
 
 __<span style="color:blue">Tanım:__ Harddisk  __ile ilgili özelliklerini <mark>daha anlaşılır biçimde</mark> detaylı şekilde__ gösterir.  
 
+__<span style="color:blue"> Örnek Görsel:__  
+
+![df](https://github.com/user-attachments/assets/9464a04a-2fbc-46d4-af20-50d0380a2602)
+
+
+
 __<span style="color:blue">21. lscpu Komutu__  
 
-__<span style="color:blue">Tanım:__ __<mark>İşlemci ile ilgili özellikleri <mark>detaylı şekilde__</mark> gösterir.  
+__<span style="color:blue">Tanım:__ __<mark>İşlemci</mark>__ __ile ilgili özellikleri <mark>detaylı şekilde__</mark> gösterir.  
 
 __<span style="color:blue"> Örnek Görsel:__  
 
