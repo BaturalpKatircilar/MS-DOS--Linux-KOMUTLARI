@@ -1,4 +1,4 @@
- #  Winddows DOS KOMUTLARI
+ #  Windows DOS KOMUTLARI
 
 __<span style="color:blue">1.DIR KOMUTU__  
 
