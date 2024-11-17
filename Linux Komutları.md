@@ -1,13 +1,13 @@
 # Linux Komutları  
 
-__<span style="color:blue">1.pwd Komutu__  
+__<span style="color:blue">1. pwd Komutu__   
 
 __<span style="color:blue">Tanım:__ Blulunulan mevcut konumun tam yolunu ekrana yazdırır.
 
 __<span style="color:blue"> Örnek Görsel:__  
 ![PWD](https://github.com/user-attachments/assets/2d8959dc-daa0-4e14-856e-bd515659f203)  
 
-__<span style="color:blue">2.ls Komutu__  
+__<span style="color:blue">2. ls Komutu__  
 
  __<span style="color:blue">Tanım:__ Bulunulan <mark>__dizin içindeki dosya ve dizinleri listeler__</mark>.  
 
@@ -16,7 +16,7 @@ __<span style="color:blue">2.ls Komutu__
  ![Ekran görüntüsü_2024-11-16_14-23-23](https://github.com/user-attachments/assets/68e1b4fd-22f4-479b-898e-5bffd890c639)  
  
 
- __<span style="color:blue">3.ls -l Komutu__
+ __<span style="color:blue">3. ls -l Komutu__
 
   __<span style="color:blue">Tanım:__ Bulunulan _dizin içindeki dosya ve dizinleri __<mark>detaylı bir şekilde </mark>  listeler__. 
 
@@ -26,7 +26,7 @@ __<span style="color:blue">2.ls Komutu__
 
 
 
-__<span style="color:blue">4.ls -lt Komutu__  
+__<span style="color:blue">4. ls -lt Komutu__  
 
 __<span style="color:blue">Tanım:__ Bulunulan dizin içindeki __dosya ve dizinleri <mark> tarih ve saate göre detaylı bir şekilde </mark>  listeler__. 
 
@@ -34,7 +34,7 @@ __<span style="color:blue">Tanım:__ Bulunulan dizin içindeki __dosya ve dizinl
 
 ![ls -lt](https://github.com/user-attachments/assets/649ac2ed-8287-48d3-8f45-0e3d0186f4f2)
 
-__<span style="color:blue">5.ls -ltr Komutu__  
+__<span style="color:blue">5. ls -ltr Komutu__  
 
 __<span style="color:blue">Tanım:__ Bulunulan dizin içindeki __dosya ve dizinleri <mark> tarih ve saate göre  detaylı ve en son değiştirilen dosya en altda olacak şekilde </mark>  listeler__. 
 
@@ -43,19 +43,19 @@ __<span style="color:blue"> Örnek Görsel:__
 ![ls -ltr](https://github.com/user-attachments/assets/4dc9cd77-5009-4bdb-97c0-902d39b38505)
 
 
-__<span style="color:blue">5.ls -a Komutu__  
+__<span style="color:blue">5. ls -a Komutu__  
 
  __<span style="color:blue">Tanım:__ Bulunulan  dizin içindeki <mark> __gizli dosya ve dizinleri listeler__</mark>.  
 
 
-__<span style="color:blue">6.cd Komutu__
+__<span style="color:blue">6. cd Komutu__
 
 __<span style="color:blue">Tanım:__ <mark>__Dizin değiştirmeyi__</mark> sağlar.
 
 
 ![Ekran görüntüsü_2024-11-16_14-37-10](https://github.com/user-attachments/assets/e3b00099-f03e-43b0-bd6a-63fa8ce2cce5)
 
-__<span style="color:blue">7.mkdir Komutu__  
+__<span style="color:blue">7. mkdir Komutu__  
 
 __<span style="color:blue">Tanım:__ Yeni bir <mark>__dizin oluşturmak__
 </mark> için kullanmılır.
@@ -65,7 +65,7 @@ __<span style="color:blue">Tanım:__ Yeni bir <mark>__dizin oluşturmak__
 ![mkdir](https://github.com/user-attachments/assets/ce3aaaa8-06dd-47a4-8bf4-3c3e8f53b0d1) 
 
 
-__<span style="color:blue">8.touch Komutu__ 
+__<span style="color:blue">8. touch Komutu__ 
 
 __<span style="color:blue">Tanım:__ Yeni bir <mark>__dosya oluşturmak__</mark> için.kullanılır.
 
