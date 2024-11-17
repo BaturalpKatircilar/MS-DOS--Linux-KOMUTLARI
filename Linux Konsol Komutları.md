@@ -2,7 +2,7 @@
 
 __<span style="color:blue">1. pwd Komutu__   
 
-__<span style="color:blue">Tanım:__  Bulunulan mevcut konumun tam yolunu ekrana yazdırır.
+__<span style="color:blue">Tanım:__  Bulunulan mevcut konumun __tam yolunu__ ekrana yazdırır.
 
 __<span style="color:blue"> Örnek Görsel:__  
 ![PWD](https://github.com/user-attachments/assets/2d8959dc-daa0-4e14-856e-bd515659f203)  
@@ -120,7 +120,7 @@ __<span style="color:blue">Tanım:__ <mark>__Dosyaları kopyalamak__</mark> içi
  ![cp ](https://github.com/user-attachments/assets/0298f866-ee86-462a-9b13-94eca1b03226)
  
 
- __<span style="color:blue">13. cp -pr Komutu__  
+ __<span style="color:blue">14. cp -pr Komutu__  
 
  __<span style="color:blue">Tanım:__ <mark>__Dizinleri kopyalamak__</mark> için kullanılır 
  
@@ -129,7 +129,7 @@ __<span style="color:blue">Tanım:__ <mark>__Dosyaları kopyalamak__</mark> içi
 
   ![cp -pr](https://github.com/user-attachments/assets/a419d390-b734-41f5-b350-67daaf32cb75)
   
- __<span style="color:blue">14. rm Komutu__  
+ __<span style="color:blue">15. rm Komutu__  
 
   __<span style="color:blue">Tanım:__ <mark>__Dosyaları</mark> silmek__ için kullanılır 
  
@@ -137,7 +137,7 @@ __<span style="color:blue">Tanım:__ <mark>__Dosyaları kopyalamak__</mark> içi
 
  ![rm ](https://github.com/user-attachments/assets/e4cd584f-619c-41b1-9fd1-69a94bfd39a9)
 
- __<span style="color:blue">15. rm -r Komutu__ 
+ __<span style="color:blue">16. rm -r Komutu__ 
 
 __<span style="color:blue">Tanım:__ <mark>__Dizinleri</mark> silmek__ için kullanılır 
 
@@ -146,7 +146,7 @@ __<span style="color:blue">Tanım:__ <mark>__Dizinleri</mark> silmek__ için kul
 
  ![rm -r ](https://github.com/user-attachments/assets/fb992953-23fa-46b4-be20-6a7842964e85)
   
- __<span style="color:blue">16. uname  Komutu__ 
+ __<span style="color:blue">17. uname  Komutu__ 
 
 __<span style="color:blue">Tanım:__ İşletim sisteminin __adını__ gösterir.  
 
@@ -155,7 +155,7 @@ __<span style="color:blue">Tanım:__ İşletim sisteminin __adını__ gösterir.
 ![uname](https://github.com/user-attachments/assets/1b643c27-c4bd-4b1c-bb9e-32691c8ad6f4)
 
 
- __<span style="color:blue">17. uname -a  Komutu__
+ __<span style="color:blue">18. uname -a  Komutu__
 
  __<span style="color:blue">Tanım:__ İşletim sisteminin __özelliklerini <mark>detaylı şekilde__</mark> gösterir.  
   
@@ -163,25 +163,25 @@ __<span style="color:blue"> Örnek Görsel:__
 
 ![uname -a](https://github.com/user-attachments/assets/244445d3-42ff-4b75-b55d-b52cabe0b096)
 
-__<span style="color:blue">18. df  Komutu__
+__<span style="color:blue">19. df  Komutu__
 
 __<span style="color:blue">Tanım:__ Harddisk  __ile ilgili özellikleri <mark>detaylı şekilde__</mark> gösterir.  
 
 __<span style="color:blue"> Örnek Görsel:__  
 
-__<span style="color:blue">19. df -kh  Komutu__  
+__<span style="color:blue"20. df -kh  Komutu__  
 
 __<span style="color:blue">Tanım:__ Harddisk  __ile ilgili özelliklerini <mark>daha anlaşılır biçimde</mark> detaylı şekilde__ gösterir.  
 
-__<span style="color:blue">20. lscpu Komutu__  
+__<span style="color:blue">21. lscpu Komutu__  
 
-__<span style="color:blue">Tanım:__ <mark>İşlemci</mark> __ile ilgili özellikleri <mark>detaylı şekilde__</mark> gösterir.  
+__<span style="color:blue">Tanım:__ __<mark>İşlemci ile ilgili özellikleri <mark>detaylı şekilde__</mark> gösterir.  
 
 __<span style="color:blue"> Örnek Görsel:__  
 
 ![lscpu](https://github.com/user-attachments/assets/6f3cc547-26e2-4367-9320-7aba341d2354)
 
-__<span style="color:blue">21. whoami Komutu__ 
+__<span style="color:blue">22. whoami Komutu__ 
 
 __<span style="color:blue">Tanım:__  Mevcut <mark>__kullanıcıyı__</mark> gösterir.  
 
