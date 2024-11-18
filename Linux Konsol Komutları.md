@@ -5,6 +5,7 @@ __<span style="color:blue">1. pwd Komutu__
 __<span style="color:blue">Tanım:__  Bulunulan mevcut konumun __tam yolunu__ ekrana yazdırır.
 
 __<span style="color:blue"> Örnek Görsel:__  
+
 ![PWD](https://github.com/user-attachments/assets/2d8959dc-daa0-4e14-856e-bd515659f203)  
 
 __<span style="color:blue">2. ls Komutu__  
@@ -43,9 +44,15 @@ __<span style="color:blue"> Örnek Görsel:__
 ![ls -ltr](https://github.com/user-attachments/assets/4dc9cd77-5009-4bdb-97c0-902d39b38505)
 
 
+
 __<span style="color:blue">6. ls -a Komutu__  
 
- __<span style="color:blue">Tanım:__ Bulunulan  dizin içindeki <mark> __gizli dosya ve dizinleri listeler__</mark>.  
+ __<span style="color:blue">Tanım:__ Bulunulan  dizin içindeki <mark> __gizli dosya ve dizinleri listeler__</mark>. 
+
+ __<span style="color:blue"> Örnek Görsel:__  
+
+ ![ls -a (Gizli Dosya)](https://github.com/user-attachments/assets/94c998d3-627c-41e4-ad1a-c889d574cd74)
+  
 
 
 __<span style="color:blue">7. cd Komutu__
@@ -89,6 +96,7 @@ __<span style="color:blue">Kullanımı:__
 ![Ekran görüntüsü_2024-11-16_15-30-04](https://github.com/user-attachments/assets/b4bde075-394a-4e57-a876-d7714eccdeea)
 
 ![Ekran görüntüsü_2024-11-16_15-31-41](https://github.com/user-attachments/assets/f73bdd42-0978-4153-8c48-59641476a48b)
+
 
 
 __<span style="color:blue">11. cat Komutu__  
