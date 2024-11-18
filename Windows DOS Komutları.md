@@ -145,6 +145,7 @@ __<span style="color:#b81616 ">15.MD KOMUTU__
 
 __<span style="color:#b81616">Tanım:__ Dizin <mark>__oluşturmayı__</mark> sağlar.  
 
+__<span style="color:#b81616">Önce__
 
 
 ![Ekran görüntüsü 2024-11-11 100320](https://github.com/user-attachments/assets/af1067a5-6081-4374-aa04-5b1c95c95131)
