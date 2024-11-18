@@ -9,7 +9,7 @@ __<span style="color:blue"> Örnek Görsel:__
 ![Ekran görüntüsü 2024-11-09 151944](https://github.com/user-attachments/assets/4edf12b3-1631-42d3-8b6e-8842946ae05f)  
 
 __<span style="color:blue">2.DIR/<mark>P</mark> Komutu__  
-__<span style="color:blue">Tanım:__  DIR komutu içinde bulunulan mevcut komutun bulundurduğu tüm dizin ve dosyaları __<mark  > liste şeklinde__ gösterir.  
+__<span style="color:blue">Tanım:__ İçinde bulunulan mevcut komutun bulundurduğu tüm dizin ve dosyaları __<mark  > liste şeklinde__ gösterir.  
   
 __<span style="color:blue"> Örnek Görsel:__ 
 
